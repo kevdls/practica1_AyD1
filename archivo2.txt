@@ -1,3 +1,3 @@
-funcion factorial(){
-//estudiante2 modifica de forma iterativa
+funcion factorial(valor){
+//redefiniendo meotodo factorial
 }
