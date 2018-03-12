@@ -1,1 +1,4 @@
-funcion factorial();
+funcion factorial(valor){
+//redefiniendo meotodo factorial
+}
+
