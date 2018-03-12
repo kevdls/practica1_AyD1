@@ -2,3 +2,4 @@ funcion suma();
 funcion resta();
 funcion dividir();
 funcion multiplicar();
+funcion potencia();
