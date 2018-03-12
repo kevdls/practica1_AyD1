@@ -4,3 +4,4 @@ funcion dividir();
 funcion multiplicar();
 funcion potencia();
 funcion raiz_cuadrada();
+////no se validó nada malo por el estudiante 2, todo bien.
