@@ -1,3 +1,4 @@
 funcion suma();
 funcion resta();
 funcion dividir();
+funcion raiz_cuadrada();
