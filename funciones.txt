@@ -1,4 +1,6 @@
 funcion suma();
-
+funcion resta();
+funcion dividir();
 funcion multiplicar();
 funcion potencia();
+//no se validó nada por el estudiante 1, todo bien.
