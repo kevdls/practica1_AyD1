@@ -1,6 +1,8 @@
 funcion suma();
 funcion resta();
 funcion dividir();
-funcion multiplicar();
+funcion multiplicar(){
+//funcion multiplicar editada por estudiante 1...
+}
 funcion potencia();
 //no se validó nada por el estudiante 1, todo bien.
