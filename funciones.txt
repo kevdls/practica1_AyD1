@@ -6,4 +6,5 @@ funcion multiplicar(){
 }
 funcion potencia();
 funcion raiz_cuadrada();
+////no se validó nada malo por el estudiante 2, todo bien.
 //no se validó nada por el estudiante 1, todo bien.
