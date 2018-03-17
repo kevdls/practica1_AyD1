@@ -2,4 +2,5 @@ funcion suma();
 funcion resta();
 funcion dividir();
 funcion raiz_cuadrada();
+funcion modular();
 ////no se validó nada malo por el estudiante 2, todo bien.
